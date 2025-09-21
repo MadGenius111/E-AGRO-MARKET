@@ -1,0 +1,1 @@
+For this project, I used Supabase Storage to handle student images. It’s an open-source cloud storage platform that makes uploading, managing, and serving files very simple. Being open-source, it gives me full control over the data and ensures transparency, while also allowing secure storage of student photos with easy integration into the attendance system.
